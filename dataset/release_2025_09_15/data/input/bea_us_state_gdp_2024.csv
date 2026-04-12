@@ -1,0 +1,59 @@
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+State or DC
+GeoFips,GeoName,2024
+00000,United States,29184890.0
+01000,Alabama,321237.6
+02000,Alaska,69969.0
+04000,Arizona,552167.0
+05000,Arkansas,188723.1
+06000,California,4103123.6
+08000,Colorado,553322.5
+09000,Connecticut,365723.1
+10000,Delaware,103253.3
+11000,District of Columbia,186165.0
+12000,Florida,1705564.9
+13000,Georgia,882534.5
+15000,Hawaii,115627.2
+16000,Idaho,128132.1
+17000,Illinois,1137243.6
+18000,Indiana,527381.1
+19000,Iowa,257020.8
+20000,Kansas,234673.2
+21000,Kentucky,293021.0
+22000,Louisiana,327782.1
+23000,Maine,98606.0
+24000,Maryland,542765.8
+25000,Massachusetts,780666.2
+26000,Michigan,706615.8
+27000,Minnesota,500851.4
+28000,Mississippi,157491.0
+29000,Missouri,451201.4
+30000,Montana,75999.2
+31000,Nebraska,185411.0
+32000,Nevada,260728.4
+33000,New Hampshire,121189.4
+34000,New Jersey,846587.5
+35000,New Mexico,140542.0
+36000,New York,2297028.0
+37000,North Carolina,839122.2
+38000,North Dakota,75399.4
+39000,Ohio,927740.1
+40000,Oklahoma,265779.1
+41000,Oregon,331028.6
+42000,Pennsylvania,1024206.3
+44000,Rhode Island,82492.5
+45000,South Carolina,349965.4
+46000,South Dakota,75179.5
+47000,Tennessee,549708.5
+48000,Texas,2709392.9
+49000,Utah,300903.8
+50000,Vermont,45707.2
+51000,Virginia,764474.8
+53000,Washington,854683.3
+54000,West Virginia,107660.1
+55000,Wisconsin,451285.3
+56000,Wyoming,52946.1
+
+Legend/Footnotes
+"  Last updated: March 28, 2025."

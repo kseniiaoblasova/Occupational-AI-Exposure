@@ -1,0 +1,267 @@
+countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country.value
+AFE,2024,433631182.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZH,Africa Eastern and Southern
+AFW,2024,290710946.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZI,Africa Western and Central
+ARB,2024,310488106.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",1A,Arab World
+CSS,2024,3087915.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",S3,Caribbean small states
+CEB,2024,64510212.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",B8,Central Europe and the Baltics
+EAR,2024,2346886633.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",V2,Early-demographic dividend
+EAS,2024,1631134151.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",Z4,East Asia & Pacific
+EAP,2024,1473848204.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",4E,East Asia & Pacific (excluding high income)
+TEA,2024,1455675512.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T4,East Asia & Pacific (IDA & IBRD countries)
+EMU,2024,222581140.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XC,Euro area
+ECS,2024,598639632.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",Z7,Europe & Central Asia
+ECA,2024,164754589.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",7E,Europe & Central Asia (excluding high income)
+TEC,2024,301397358.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T7,Europe & Central Asia (IDA & IBRD countries)
+EUU,2024,286203435.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",EU,European Union
+FCS,2024,617981055.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",F1,Fragile and conflict affected situations
+HPC,2024,522293329.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XE,Heavily indebted poor countries (HIPC)
+,2024,917750384.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XD,High income
+IBD,2024,3380179137.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XF,IBRD only
+IBT,2024,4512657478.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZT,IDA & IBRD total
+IDB,2024,392791812.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XH,IDA blend
+IDX,2024,739686529.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XI,IDA only
+IDA,2024,1132478341.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XG,IDA total
+LTE,2024,1601440606.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",V3,Late-demographic dividend
+LCN,2024,447986971.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZJ,Latin America & Caribbean
+LAC,2024,402730117.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XJ,Latin America & Caribbean (excluding high income)
+TLA,2024,437777504.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T2,Latin America & the Caribbean (IDA & IBRD countries)
+LDC,2024,683420487.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XL,Least developed countries: UN classification
+LMY,2024,4285915210.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XO,Low & middle income
+,2024,344232294.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XM,Low income
+,2024,2012327556.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XN,Lower middle income
+MEA,2024,510677333.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZQ,"Middle East, North Africa, Afghanistan & Pakistan"
+MNA,2024,458163324.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+TMN,2024,455089525.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+MIC,2024,3941682916.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XP,Middle income
+NAC,2024,247126777.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XU,North America
+,2024,,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XY,Not classified
+OED,2024,903454076.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",OE,OECD members
+OSS,2024,8579679.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",S4,Other small states
+PSS,2024,1673948.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",S2,Pacific island small states
+PST,2024,721939863.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",V4,Post-demographic dividend
+PRE,2024,609748629.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",V1,Pre-demographic dividend
+SST,2024,13341542.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",S1,Small states
+SAS,2024,1138375451.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",8S,South Asia
+TSA,2024,1138375451.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T5,South Asia (IDA & IBRD)
+SSF,2024,724342128.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZG,Sub-Saharan Africa
+SSA,2024,648043525.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZF,Sub-Saharan Africa (excluding high income)
+TSS,2024,724342128.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",T6,Sub-Saharan Africa (IDA & IBRD countries)
+,2024,1929355360.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XT,Upper middle income
+WLD,2024,5298282443.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",1W,World
+AFG,2024,23333093.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AF,Afghanistan
+ALB,2024,1798066.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AL,Albania
+DZA,2024,29534577.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DZ,Algeria
+ASM,2024,30373.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AS,American Samoa
+AND,2024,59134.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AD,Andorra
+AGO,2024,20002446.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AO,Angola
+ATG,2024,66030.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AG,Antigua and Barbuda
+ARG,2024,30150350.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AR,Argentina
+ARM,2024,2034270.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AM,Armenia
+ABW,2024,71138.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AW,Aruba
+AUS,2024,17527551.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AU,Australia
+AUT,2024,5981212.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AT,Austria
+AZE,2024,7104510.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AZ,Azerbaijan
+BHS,2024,282148.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BS,"Bahamas, The"
+BHR,2024,1230105.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BH,Bahrain
+BGD,2024,113705228.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BD,Bangladesh
+BRB,2024,187017.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BB,Barbados
+BLR,2024,6031557.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BY,Belarus
+BEL,2024,7535358.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BE,Belgium
+BLZ,2024,285268.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BZ,Belize
+BEN,2024,8002133.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BJ,Benin
+BMU,2024,41787.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BM,Bermuda
+BTN,2024,574618.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BT,Bhutan
+BOL,2024,8015521.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BO,Bolivia
+BIH,2024,2048283.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BA,Bosnia and Herzegovina
+BWA,2024,1609356.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BW,Botswana
+BRA,2024,146884644.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BR,Brazil
+VGB,2024,29952.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VG,British Virgin Islands
+BRN,2024,334579.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BN,Brunei Darussalam
+BGR,2024,4091863.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BG,Bulgaria
+BFA,2024,13080453.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BF,Burkina Faso
+BDI,2024,7412918.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",BI,Burundi
+CPV,2024,354788.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CV,Cabo Verde
+KHM,2024,11296444.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KH,Cambodia
+CMR,2024,16240266.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CM,Cameroon
+CAN,2024,26874373.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada
+CYM,2024,55705.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KY,Cayman Islands
+CAF,2024,2603806.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CF,Central African Republic
+TCD,2024,10522017.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TD,Chad
+CHI,2024,110570.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",JG,Channel Islands
+CHL,2024,13617680.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CL,Chile
+CHN,2024,976798955.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CN,China
+COL,2024,36993721.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CO,Colombia
+COM,2024,506166.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KM,Comoros
+COD,2024,55612277.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CD,"Congo, Dem. Rep."
+COG,2024,3582468.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CG,"Congo, Rep."
+CRI,2024,3538385.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CR,Costa Rica
+CIV,2024,18049122.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CI,Cote d'Ivoire
+HRV,2024,2431478.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",HR,Croatia
+CUB,2024,7481292.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CU,Cuba
+CUW,2024,106465.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CW,Curacao
+CYP,2024,941447.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CY,Cyprus
+CZE,2024,6938176.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CZ,Czechia
+DNK,2024,3791657.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DK,Denmark
+DJI,2024,771113.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DJ,Djibouti
+DMA,2024,45794.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DM,Dominica
+DOM,2024,7489835.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DO,Dominican Republic
+ECU,2024,12187069.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",EC,Ecuador
+EGY,2024,73289803.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",EG,"Egypt, Arab Rep."
+SLV,2024,4249458.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SV,El Salvador
+GNQ,2024,1117089.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GQ,Equatorial Guinea
+ERI,2024,2038633.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ER,Eritrea
+EST,2024,865244.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",EE,Estonia
+SWZ,2024,775344.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SZ,Eswatini
+ETH,2024,76211823.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ET,Ethiopia
+FRO,2024,34088.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",FO,Faroe Islands
+FJI,2024,616896.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",FJ,Fiji
+FIN,2024,3465172.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",FI,Finland
+FRA,2024,42033842.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",FR,France
+PYF,2024,196066.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PF,French Polynesia
+GAB,2024,1508973.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GA,Gabon
+GMB,2024,1564189.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GM,"Gambia, The"
+GEO,2024,2335229.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GE,Georgia
+DEU,2024,52523588.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",DE,Germany
+GHA,2024,20819475.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GH,Ghana
+GIB,2024,25461.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GI,Gibraltar
+GRC,2024,6528411.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GR,Greece
+GRL,2024,38869.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GL,Greenland
+GRD,2024,80075.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GD,Grenada
+GUM,2024,103040.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GU,Guam
+GTM,2024,11701574.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GT,Guatemala
+GIN,2024,8210112.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GN,Guinea
+GNB,2024,1277274.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GW,Guinea-Bissau
+GUY,2024,532764.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GY,Guyana
+HTI,2024,7546932.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",HT,Haiti
+HND,2024,7032493.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",HN,Honduras
+HKG,2024,5027982.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",HK,"Hong Kong SAR, China"
+HUN,2024,6177773.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",HU,Hungary
+ISL,2024,269437.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IS,Iceland
+IND,2024,989967399.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IN,India
+IDN,2024,193093840.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ID,Indonesia
+IRN,2024,63475136.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IR,"Iran, Islamic Rep."
+IRQ,2024,27627172.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IQ,Iraq
+IRL,2024,3526890.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IE,Ireland
+IMN,2024,52704.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IM,Isle of Man
+ISR,2024,5988435.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IL,Israel
+ITA,2024,37446049.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",IT,Italy
+JAM,2024,2075097.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",JM,Jamaica
+JPN,2024,72876601.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",JP,Japan
+JOR,2024,7487234.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",JO,Jordan
+KAZ,2024,12761934.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KZ,Kazakhstan
+KEN,2024,33971376.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KE,Kenya
+KIR,2024,82149.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KI,Kiribati
+PRK,2024,18192245.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KP,"Korea, Dem. People's Rep."
+KOR,2024,36307699.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KR,"Korea, Rep."
+XKX,2024,1057138.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",XK,Kosovo
+KWT,2024,3913252.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KW,Kuwait
+KGZ,2024,4477563.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KG,Kyrgyz Republic
+LAO,2024,5060934.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LA,Lao PDR
+LVA,2024,1170560.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LV,Latvia
+LBN,2024,3696945.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LB,Lebanon
+LSO,2024,1440421.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LS,Lesotho
+LBR,2024,3208590.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LR,Liberia
+LBY,2024,4987238.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LY,Libya
+LIE,2024,26133.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LI,Liechtenstein
+LTU,2024,1880919.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LT,Lithuania
+LUX,2024,465906.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LU,Luxembourg
+MAC,2024,493413.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MO,"Macao SAR, China"
+MDG,2024,18328064.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MG,Madagascar
+MWI,2024,12280351.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MW,Malawi
+MYS,2024,25059539.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MY,Malaysia
+MDV,2024,399901.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MV,Maldives
+MLI,2024,12600039.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ML,Mali
+MLT,2024,383417.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MT,Malta
+MHL,2024,22861.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MH,Marshall Islands
+MRT,2024,2794594.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MR,Mauritania
+MUS,2024,902605.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MU,Mauritius
+MEX,2024,87993476.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MX,Mexico
+FSM,2024,70388.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",FM,"Micronesia, Fed. Sts."
+MDA,2024,1529130.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MD,Moldova
+MCO,2024,19455.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MC,Monaco
+MNG,2024,2208951.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MN,Mongolia
+MNE,2024,399508.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ME,Montenegro
+MAR,2024,25220566.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MA,Morocco
+MOZ,2024,18274202.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MZ,Mozambique
+MMR,2024,37275361.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MM,Myanmar
+NAM,2024,1798301.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NA,Namibia
+NRU,2024,7093.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NR,Nauru
+NPL,2024,19293162.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NP,Nepal
+NLD,2024,11602374.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NL,Netherlands
+NCL,2024,196852.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NC,New Caledonia
+NZL,2024,3453239.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NZ,New Zealand
+NIC,2024,4544425.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NI,Nicaragua
+NER,2024,13733709.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NE,Niger
+NGA,2024,130155065.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NG,Nigeria
+MKD,2024,1167649.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MK,North Macedonia
+MNP,2024,30218.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MP,Northern Mariana Islands
+NOR,2024,3623426.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",NO,Norway
+OMN,2024,3836566.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",OM,Oman
+PAK,2024,148335347.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PK,Pakistan
+PLW,2024,12460.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PW,Palau
+PAN,2024,2969081.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PA,Panama
+PNG,2024,6669106.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PG,Papua New Guinea
+PRY,2024,4495248.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PY,Paraguay
+PER,2024,22858026.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PE,Peru
+PHL,2024,77198220.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines
+POL,2024,23779135.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PL,Poland
+PRT,2024,6706494.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PT,Portugal
+PRI,2024,2038982.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PR,Puerto Rico (US)
+QAT,2024,2379235.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",QA,Qatar
+ROU,2024,12262203.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",RO,Romania
+RUS,2024,94078090.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",RU,Russian Federation
+RWA,2024,8370477.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",RW,Rwanda
+WSM,2024,121338.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",WS,Samoa
+SMR,2024,22198.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SM,San Marino
+STP,2024,137250.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ST,Sao Tome and Principe
+SAU,2024,25850598.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SA,Saudi Arabia
+SEN,2024,10768138.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SN,Senegal
+SRB,2024,4150130.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",RS,Serbia
+SYC,2024,86780.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SC,Seychelles
+SLE,2024,5070151.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SL,Sierra Leone
+SGP,2024,4506976.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SG,Singapore
+SXM,2024,30745.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SX,Sint Maarten (Dutch part)
+SVK,2024,3562375.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SK,Slovak Republic
+SVN,2024,1350486.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SI,Slovenia
+SLB,2024,486528.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SB,Solomon Islands
+SOM,2024,9659535.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SO,Somalia
+ZAF,2024,43157289.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZA,South Africa
+SSD,2024,6938028.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SS,South Sudan
+ESP,2024,32179918.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ES,Spain
+LKA,2024,14435143.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LK,Sri Lanka
+KNA,2024,33064.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",KN,St. Kitts and Nevis
+LCA,2024,130937.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",LC,St. Lucia
+MAF,2024,15745.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",MF,St. Martin (French part)
+VCT,2024,67229.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VC,St. Vincent and the Grenadines
+SDN,2024,28365906.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SD,Sudan
+SUR,2024,421653.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SR,Suriname
+SWE,2024,6581488.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SE,Sweden
+CHE,2024,5874889.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",CH,Switzerland
+SYR,2024,16307424.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",SY,Syrian Arab Republic
+TJK,2024,6342581.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TJ,Tajikistan
+TZA,2024,37309677.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TZ,Tanzania
+THA,2024,50087170.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TH,Thailand
+TLS,2024,855284.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TL,Timor-Leste
+TGO,2024,5448495.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TG,Togo
+TON,2024,60298.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TO,Tonga
+TTO,2024,955936.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TT,Trinidad and Tobago
+TUN,2024,8155858.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TN,Tunisia
+TUR,2024,58380949.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TR,Turkiye
+TKM,2024,4793698.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TM,Turkmenistan
+TCA,2024,33820.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TC,Turks and Caicos Islands
+TUV,2024,5825.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",TV,Tuvalu
+UGA,2024,27142399.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",UG,Uganda
+UKR,2024,25422766.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",UA,Ukraine
+ARE,2024,8932401.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",AE,United Arab Emirates
+GBR,2024,43830571.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",GB,United Kingdom
+USA,2024,220210617.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",US,United States
+URY,2024,2223696.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",UY,Uruguay
+UZB,2024,22919628.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",UZ,Uzbekistan
+VUT,2024,188112.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VU,Vanuatu
+VEN,2024,18405026.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VE,"Venezuela, RB"
+VNM,2024,68397760.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VN,Viet Nam
+VIR,2024,63475.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",VI,Virgin Islands (U.S.)
+PSE,2024,3073799.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",PS,West Bank and Gaza
+YEM,2024,22868019.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",YE,"Yemen, Rep."
+ZMB,2024,12063392.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZM,Zambia
+ZWE,2024,9236166.0,,,0,SP.POP.1564.TO,"Population ages 15-64, total",ZW,Zimbabwe

@@ -1,0 +1,358 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_count,,971450.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_mean,,2.843552350997925
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_mean_ci_lower,,2.841251850128174
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_mean_ci_upper,,2.845771551132202
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_median,,3.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_median_ci_lower,,2.983347102909781
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_median_ci_upper,,2.984652874238729
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_stdev,,1.1357194185256958
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_count,"[1.0, 1.0)",143165.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_pct,"[1.0, 1.0)",14.737248443049051
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_count,"[2.0, 2.0)",247774.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_pct,"[2.0, 2.0)",25.505584435637452
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_count,"[3.0, 3.0)",235514.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_pct,"[3.0, 3.0)",24.243553451026816
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_count,"[4.0, 4.0)",307871.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_pct,"[4.0, 4.0)",31.69190385506202
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_count,"[5.0, 5.0)",37126.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_autonomy,0,ai_autonomy_histogram_pct,"[5.0, 5.0)",3.8217098152246645
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_count,,971519.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_mean,,11.906281471252441
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_mean_ci_lower,,11.89892292022705
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_mean_ci_upper,,11.914258003234863
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_median,,12.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_median_ci_lower,,12.245907334530614
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_median_ci_upper,,12.25624547831233
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_stdev,,3.909695625305176
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[0.0, 0.0)",42839.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[0.0, 0.0)",4.409486587498546
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[1.0, 1.0)",402.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[1.0, 1.0)",0.04137850108953093
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[10.0, 10.0)",44229.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[10.0, 10.0)",4.552561504201154
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[11.0, 11.0)",905.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[11.0, 11.0)",0.09315309324881964
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[12.0, 12.0)",221962.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[12.0, 12.0)",22.846902633916578
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[13.0, 13.0)",1315.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[13.0, 13.0)",0.13535504709635118
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[14.0, 14.0)",263760.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[14.0, 14.0)",27.149237431280294
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[15.0, 15.0)",517.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[15.0, 15.0)",0.053215634485789774
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[16.0, 16.0)",198931.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[16.0, 16.0)",20.47628507522756
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[17.0, 17.0)",758.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[17.0, 17.0)",0.07802214882055833
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[18.0, 18.0)",4569.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[18.0, 18.0)",0.4702944564131015
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[19.0, 19.0)",189.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[19.0, 19.0)",0.01945407140776454
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[2.0, 2.0)",860.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[2.0, 2.0)",0.08852117148506618
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[20.0, 20.0)",42.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[20.0, 20.0)",0.004323126979503232
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[3.0, 3.0)",4748.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[3.0, 3.0)",0.4887192118733653
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[4.0, 4.0)",352.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[4.0, 4.0)",0.03623192135202709
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[5.0, 5.0)",10177.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[5.0, 5.0)",1.047534839771533
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[6.0, 6.0)",18859.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[6.0, 6.0)",1.941186945391701
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[7.0, 7.0)",735.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[7.0, 7.0)",0.07565472214130654
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[8.0, 8.0)",133843.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[8.0, 8.0)",13.776673436134548
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_count,"[9.0, 9.0)",21527.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,ai_education_years,0,ai_education_years_histogram_pct,"[9.0, 9.0)",2.2158084401849063
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,directive,617736.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,directive,63.58415892540079
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,feedback loop,107102.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,feedback loop,11.024111577159621
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,learning,40719.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,learning,4.191245721932014
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,none,107269.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,none,11.04130104732251
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,not_classified,1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,not_classified,0.00010293095905921104
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,task iteration,56826.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,task iteration,5.849154679498726
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_count,validation,41872.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,collaboration,0,collaboration_pct,validation,4.309925117727285
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_count,,971525.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_mean,,12.710144996643066
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_mean_ci_lower,,12.702923774719238
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_mean_ci_upper,,12.717509269714355
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_median,,14.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_median_ci_lower,,13.887463297386113
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_median_ci_upper,,13.891963740828004
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_stdev,,3.630586624145508
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[0.0, 0.0)",24858.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[0.0, 0.0)",2.558657780293868
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[1.0, 1.0)",319.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[1.0, 1.0)",0.03283497593988832
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[10.0, 10.0)",12242.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[10.0, 10.0)",1.2600808008028614
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[11.0, 11.0)",738.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[11.0, 11.0)",0.07596304778569775
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[12.0, 12.0)",219786.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[12.0, 12.0)",22.62278376778776
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[13.0, 13.0)",2688.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[13.0, 13.0)",0.2766784179511593
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[14.0, 14.0)",235654.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[14.0, 14.0)",24.256092226139316
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[15.0, 15.0)",473.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[15.0, 15.0)",0.04868634363500682
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[16.0, 16.0)",298898.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[16.0, 16.0)",30.76585780088006
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[17.0, 17.0)",1218.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[17.0, 17.0)",0.12536990813411902
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[18.0, 18.0)",10166.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[18.0, 18.0)",1.0463961297959394
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[19.0, 19.0)",205.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[19.0, 19.0)",0.021100846607138263
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[2.0, 2.0)",1183.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[2.0, 2.0)",0.12176732456704664
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[20.0, 20.0)",163.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[20.0, 20.0)",0.0167777463266514
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[3.0, 3.0)",4002.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[3.0, 3.0)",0.4119296981549626
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[4.0, 4.0)",410.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[4.0, 4.0)",0.042201693214276526
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[5.0, 5.0)",8916.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[5.0, 5.0)",0.9177324309719256
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[6.0, 6.0)",15927.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[6.0, 6.0)",1.6393813849360541
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[7.0, 7.0)",404.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[7.0, 7.0)",0.041584107459921256
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[8.0, 8.0)",112934.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[8.0, 8.0)",11.624404930392938
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_count,"[9.0, 9.0)",20341.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_education_years,0,human_education_years_histogram_pct,"[9.0, 9.0)",2.0937186382234114
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_ability,0,human_only_ability_count,no,58586.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_ability,0,human_only_ability_pct,no,6.030313167442937
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_ability,0,human_only_ability_count,yes,912939.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_ability,0,human_only_ability_pct,yes,93.96968683255706
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_count,,971523.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_mean,,1.7292592525482178
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_mean_ci_lower,,1.7183709144592285
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_mean_ci_upper,,1.740529179573059
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_median,,0.5
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_median_ci_lower,,0.49537598168997277
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_median_ci_upper,,0.49863727976078664
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_stdev,,5.853325843811035
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[0.0, 70.0)",970949.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[0.0, 70.0)",99.94091750787166
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1050.0, 1120.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1050.0, 1120.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1120.0, 1190.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1120.0, 1190.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1190.0, 1260.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1190.0, 1260.0)",0.00010293117095529391
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1260.0, 1330.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1260.0, 1330.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1330.0, 1400.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1330.0, 1400.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[140.0, 210.0)",76.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[140.0, 210.0)",0.007822768992602338
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1400.0, 1470.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1400.0, 1470.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1470.0, 1540.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1470.0, 1540.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1540.0, 1610.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1540.0, 1610.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1610.0, 1680.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1610.0, 1680.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[1680.0, 1750.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[1680.0, 1750.0)",0.00010293117095529391
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[210.0, 280.0)",31.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[210.0, 280.0)",0.003190866299614111
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[280.0, 350.0)",12.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[280.0, 350.0)",0.001235174051463527
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[350.0, 420.0)",6.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[350.0, 420.0)",0.0006175870257317635
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[420.0, 490.0)",8.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[420.0, 490.0)",0.0008234493676423513
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[490.0, 560.0)",6.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[490.0, 560.0)",0.0006175870257317635
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[560.0, 630.0)",3.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[560.0, 630.0)",0.00030879351286588173
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[630.0, 700.0)",2.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[630.0, 700.0)",0.00020586234191058783
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[70.0, 140.0)",425.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[70.0, 140.0)",0.04374574765599991
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[700.0, 770.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[700.0, 770.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[770.0, 840.0)",2.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[770.0, 840.0)",0.00020586234191058783
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[840.0, 910.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[840.0, 910.0)",0.00010293117095529391
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[910.0, 980.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[910.0, 980.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_count,"[980.0, 1050.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_only_time,0,human_only_time_histogram_pct,"[980.0, 1050.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_count,,971524.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_mean,,4.695962905883789
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_mean_ci_lower,,4.67737340927124
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_mean_ci_upper,,4.715015411376953
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_median,,2.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_median_ci_lower,,1.9974095865818886
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_median_ci_upper,,2.007420290272931
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_stdev,,9.322778701782227
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[0.0, 96.0)",971041.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[0.0, 96.0)",99.95028429560155
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1056.0, 1152.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1056.0, 1152.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1152.0, 1248.0)",2.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1152.0, 1248.0)",0.00020586213001428684
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1248.0, 1344.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1248.0, 1344.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1344.0, 1440.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1344.0, 1440.0)",0.00010293106500714342
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1440.0, 1536.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1440.0, 1536.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1536.0, 1632.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1536.0, 1632.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1632.0, 1728.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1632.0, 1728.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1728.0, 1824.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1728.0, 1824.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1824.0, 1920.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1824.0, 1920.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[192.0, 288.0)",75.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[192.0, 288.0)",0.007719829875535756
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[1920.0, 2016.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[1920.0, 2016.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[2016.0, 2112.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[2016.0, 2112.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[2112.0, 2208.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[2112.0, 2208.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[2208.0, 2304.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[2208.0, 2304.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[2304.0, 2400.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[2304.0, 2400.0)",0.00010293106500714342
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[288.0, 384.0)",16.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[288.0, 384.0)",0.0016468970401142947
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[384.0, 480.0)",7.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[384.0, 480.0)",0.0007205174550500039
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[480.0, 576.0)",5.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[480.0, 576.0)",0.000514655325035717
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[576.0, 672.0)",6.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[576.0, 672.0)",0.0006175863900428605
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[672.0, 768.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[672.0, 768.0)",0.00010293106500714342
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[768.0, 864.0)",1.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[768.0, 864.0)",0.00010293106500714342
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[864.0, 960.0)",3.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[864.0, 960.0)",0.00030879319502143023
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[96.0, 192.0)",365.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[96.0, 192.0)",0.037569838727607344
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_count,"[960.0, 1056.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,human_with_ai_time,0,human_with_ai_time_histogram_pct,"[960.0, 1056.0)",0.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,multitasking,0,multitasking_count,no,930958.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,multitasking,0,multitasking_pct,no,95.82439978384498
+GLOBAL,global,2025-11-13,2025-11-20,1P API,multitasking,0,multitasking_count,yes,40567.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,multitasking,0,multitasking_pct,yes,4.175600216155014
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,access computerized financial information to answer general questions as well as those related to specific accounts.,42.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,access computerized financial information to answer general questions as well as those related to specific accounts.,0.004323100280486864
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"accompany buyers during visits to and inspections of property, advising them on the suitability and value of the homes they are visiting.",17.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"accompany buyers during visits to and inspections of property, advising them on the suitability and value of the homes they are visiting.",0.0017498263040065876
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,15.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,0.0015439643858881655
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales.,53.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales.,0.005455340830138185
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",100.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",0.010293095905921104
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,adapt instructional content or delivery methods for different levels or types of learners.,153.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,adapt instructional content or delivery methods for different levels or types of learners.,0.015748436736059288
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,adapt teaching methods and instructional materials to meet students' varying needs and interests.,51.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,adapt teaching methods and instructional materials to meet students' varying needs and interests.,0.005249478912019763
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,adapt text to accommodate musical requirements of composers and singers.,21.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,adapt text to accommodate musical requirements of composers and singers.,0.002161550140243432
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",59.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",0.00607292658449345
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",458.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",0.047142379249118654
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"administer and score applicant and employee aptitude, personality, and interest assessment instruments.",31.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"administer and score applicant and employee aptitude, personality, and interest assessment instruments.",0.0031908597308355417
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,administer construction contracts.,21.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,administer construction contracts.,0.002161550140243432
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,administer document and system access rights and revision control to ensure security of system and integrity of master documents.,300.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,administer document and system access rights and revision control to ensure security of system and integrity of master documents.,0.030879287717763312
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"administer highway planning, construction, or maintenance.",23.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"administer highway planning, construction, or maintenance.",0.0023674120583618537
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,administer online purchasing systems.,1102.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,administer online purchasing systems.,0.11342991688325056
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,administer standardized ability and achievement tests and interpret results to determine students' strengths and areas of need.,24.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,administer standardized ability and achievement tests and interpret results to determine students' strengths and areas of need.,0.002470343017421065
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"administer treatments or therapies, such as homeopathy, hydrotherapy, oriental or ayurvedic medicine, electrotherapy and diathermy, using physical agents including air, heat, cold, water, sound, or ultraviolet light to catalyze the body to heal itself.",19.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"administer treatments or therapies, such as homeopathy, hydrotherapy, oriental or ayurvedic medicine, electrotherapy and diathermy, using physical agents including air, heat, cold, water, sound, or ultraviolet light to catalyze the body to heal itself.",0.00195568822212501
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"administer, dispense, or prescribe natural medicines such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",26.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"administer, dispense, or prescribe natural medicines such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",0.0026762049355394868
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"administer, proctor, or score academic or diagnostic assessments.",409.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"administer, proctor, or score academic or diagnostic assessments.",0.04209876225521731
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise and teach students.,26.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise and teach students.,0.0026762049355394868
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise animal owners regarding sanitary measures, feeding, general care, medical conditions, or treatment options.",71.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise animal owners regarding sanitary measures, feeding, general care, medical conditions, or treatment options.",0.0073080980932039834
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise client on interior design factors such as space planning, layout and use of furnishings or equipment, and color coordination.",19.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise client on interior design factors such as space planning, layout and use of furnishings or equipment, and color coordination.",0.00195568822212501
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",24.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",0.002470343017421065
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise clients on financial and legal matters such as investments and taxes.,99.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise clients on financial and legal matters such as investments and taxes.,0.010190164946861893
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise clients on how they could be helped by counseling.,80.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise clients on how they could be helped by counseling.,0.008234476724736883
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",266.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",0.027379635109750135
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise corporations on issues involving corporate image projects or problems.,19.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise corporations on issues involving corporate image projects or problems.,0.00195568822212501
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise customers concerning equipment operation, maintenance, or programming.",26.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise customers concerning equipment operation, maintenance, or programming.",0.0026762049355394868
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise customers of necessary actions and strategies for debt repayment.,54.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise customers of necessary actions and strategies for debt repayment.,0.005558271789197396
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise customers on use and care of merchandise.,20.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise customers on use and care of merchandise.,0.0020586191811842207
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning.",30.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning.",0.003087928771776331
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with the establishment, operation, and evaluation of food service facilities and nutrition programs.",28.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with the establishment, operation, and evaluation of food service facilities and nutrition programs.",0.002882066853657909
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",46.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",0.004734824116723707
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",40.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",0.004117238362368441
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise or assist in obtaining patents or meeting other legal requirements.,36.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise or assist in obtaining patents or meeting other legal requirements.,0.0037055145261315975
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",104.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",0.010704819742157947
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise patients and their families on nutritional principles, dietary plans and diet modifications, and food selection and preparation.",29.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise patients and their families on nutritional principles, dietary plans and diet modifications, and food selection and preparation.",0.00298499781271712
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise retail customers or internal users on the appropriateness of parts, supplies, or materials requested.",26.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise retail customers or internal users on the appropriateness of parts, supplies, or materials requested.",0.0026762049355394868
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,advise students on academic and vocational curricula and on career issues.,109.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,advise students on academic and vocational curricula and on career issues.,0.011219474537454003
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"advise students on academic and vocational curricula, and on career issues.",18.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"advise students on academic and vocational curricula, and on career issues.",0.0018527572630657988
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,67.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,0.00689637425696714
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze and classify risks and investments to determine their potential impacts on companies.,203.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze and classify risks and investments to determine their potential impacts on companies.,0.02089498468901984
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze and evaluate robotic systems or prototypes.,19.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze and evaluate robotic systems or prototypes.,0.00195568822212501
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",1710.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",0.17601193999125087
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze and interpret data to increase the understanding of human social behavior.,86.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze and interpret data to increase the understanding of human social behavior.,0.008852062479092149
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze and interpret news and information received from various sources to broadcast the information.,96.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze and interpret news and information received from various sources to broadcast the information.,0.00988137206968426
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"analyze and interpret patient, nursing, or information systems data to improve nursing services.",27.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"analyze and interpret patient, nursing, or information systems data to improve nursing services.",0.002779135894598698
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",80.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",0.008234476724736883
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,"analyze and interpret results from tests such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (fnas), and polymerase chain reactions (pcrs).",64.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,"analyze and interpret results from tests such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (fnas), and polymerase chain reactions (pcrs).",0.006587581379789507
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_count,analyze and maintain data logs for audio-visual activities.,38.0
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet_task_pct,analyze and maintain data logs for audio-visual activities.,0.00391137644425002
+GLOBAL,global,2025-11-13,2025-11-20,1P API,onet_task,0,onet

@@ -1,0 +1,276 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value,geo_name
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,55553.99364615255,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,71138.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Aruba
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,113.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,47.47899159663865,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,directive,1.2243222456282374,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,18.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,7.563025210084033,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,feedback loop,0.7329822179881821,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,44.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,18.487394957983195,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,learning,0.9090019123473206,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,17.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,7.142857142857142,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,46.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,19.327731092436977,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,task iteration,0.8697073215827468,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,augmentation_pct,augmentation,40.723981900452486,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,automation_pct,automation,59.276018099547514,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5796.591076911293,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,20002446.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,238.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.024676151432772,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.1898544807969985e-05,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.04561227046565567,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",17.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",7.142857142857142,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",1.8714157653934365,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,197.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,82.77310924369748,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",24.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",10.084033613445378,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",2.069755892823389,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,38.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,15.966386554621849,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Help develop and debug complete web applications and user interfaces,2.199549224934789,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help edit, improve, and create professional written documents and communications",21.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help edit, improve, and create professional written documents and communications",8.823529411764707,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,"Help edit, improve, and create professional written documents and communications",1.3023354415680513,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,31.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,13.025210084033615,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide comprehensive software development assistance across multiple programming domains and technologies,0.7028419159900816,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,24.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,10.084033613445378,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide educational tutoring and academic assistance across multiple subjects and disciplines,1.343201800324046,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,124.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,52.10084033613446,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),soc_occupation,0,soc_pct,Computer and Mathematical,17.22689075630252,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),soc_occupation,0,soc_pct,not_classified,82.77310924369748,Angola
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,148.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,40.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,directive,1.0314644051664443,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,58.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,15.675675675675675,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,feedback loop,1.519232212779109,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,59.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,15.945945945945947,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,learning,0.7840420671487148,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,4.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,1.0810810810810811,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,82.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,22.162162162162165,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,task iteration,0.9972507689781954,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,19.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,5.135135135135135,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,validation,1.1463238964558227,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,augmentation_pct,augmentation,43.71584699453552,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,automation_pct,automation,56.284153005464475,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,15160.177657549833,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1798066.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,370.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0383620841601917,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00020577665113516411,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7888309384528269,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,15.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,4.054054054054054,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,1.9022674827588473,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",34.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",9.18918918918919,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",2.4075510927764214,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",18.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",4.864864864864865,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",1.7952758543667635,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,15.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,4.054054054054054,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,262.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,70.8108108108108,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",26.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",7.027027027027027,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",1.442302867656659,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix software code errors across multiple programming languages,20.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix software code errors across multiple programming languages,5.405405405405405,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,Debug and fix software code errors across multiple programming languages,1.1996872957362636,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Fix and improve web and mobile application UI layouts, styling, and components",17.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Fix and improve web and mobile application UI layouts, styling, and components",4.594594594594595,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,"Fix and improve web and mobile application UI layouts, styling, and components",2.357786070188305,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and modify web applications and frontend components",19.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and modify web applications and frontend components",5.135135135135135,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,"Help develop, debug, and modify web applications and frontend components",3.445910406336205,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive database development and management assistance,16.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive database development and management assistance,4.324324324324325,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,Provide comprehensive database development and management assistance,2.0179915158045603,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive multi-technology programming development assistance and technical guidance,17.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive multi-technology programming development assistance and technical guidance,4.594594594594595,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,Provide comprehensive multi-technology programming development assistance and technical guidance,1.266673979968249,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide translation services and comprehensive language learning assistance across multiple languages,19.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide translation services and comprehensive language learning assistance across multiple languages,5.135135135135135,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct_index,Provide translation services and comprehensive language learning assistance across multiple languages,1.8224930184821266,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,not_classified,262.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,not_classified,70.8108108108108,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,58.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,15.675675675675675,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Help develop and debug complete web applications and user interfaces,2.1595005334992767,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive financial guidance and investment assistance across multiple domains,18.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive financial guidance and investment assistance across multiple domains,4.864864864864865,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide comprehensive financial guidance and investment assistance across multiple domains,1.224492542334866,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,82.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,22.162162162162165,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide comprehensive software development assistance across multiple programming domains and technologies,1.1958729583663847,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,24.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,6.486486486486487,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide educational tutoring and academic assistance across multiple subjects and disciplines,0.8640054823706027,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide multilingual translation services and language learning assistance,19.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide multilingual translation services and language learning assistance,5.135135135135135,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide multilingual translation services and language learning assistance,1.691532454585733,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical IT support and troubleshooting assistance,19.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical IT support and troubleshooting assistance,5.135135135135135,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct_index,Provide technical IT support and troubleshooting assistance,0.964068794920977,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,150.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,40.54054054054054,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),soc_occupation,0,soc_pct,Computer and Mathematical,25.13513513513514,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),soc_occupation,0,soc_pct,not_classified,74.86486486486486,Albania
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,25.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,62.5,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,15.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,37.5,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,augmentation_pct,augmentation,100.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,automation_pct,automation,0.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,68285.58866303651,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,59134.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0041472523416423,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006764298034971421,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.5930481118561155,Andorra
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,1200.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,39.85386914646297,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,directive,1.0276961858184432,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,349.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,11.590833610096317,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,feedback loop,1.1233434626837595,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,504.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,16.738625041514446,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,learning,0.8230170993469837,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,none,75.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,none,2.4908668216539356,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,755.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,25.074726004649616,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,task iteration,1.12831002711221,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,128.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,4.251079375622717,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct_index,validation,0.9489748070434331,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,augmentation_pct,augmentation,47.24114441416894,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration_automation_augmentation,0,automation_pct,automation,52.758855585831064,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,60127.05878296327,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8932401.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3011.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3121844200171281,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00033708741916087286,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.2922019273345715,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,26.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.8635004981733644,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,1.125308808924768,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,assist students who need extra help with their coursework outside of class.,24.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,assist students who need extra help with their coursework outside of class.,0.7970773829292593,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,assist students who need extra help with their coursework outside of class.,0.6639975413464959,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.8152107581555108,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct searches to find needed information, using such sources as the internet.",18.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct searches to find needed information, using such sources as the internet.",0.5978080371969445,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"conduct searches to find needed information, using such sources as the internet.",1.4731279126934846,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,23.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,0.7638658253072069,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,1.214947238314395,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,72.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,2.391232148787778,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,1.1220282462237503,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",100.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",3.321155762205247,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",1.6746313287915031,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",33.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",1.0959814015277316,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",2.0065821675874864,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop instructional materials to be used by educators and instructors.,20.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop instructional materials to be used by educators and instructors.,0.6642311524410495,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,develop instructional materials to be used by educators and instructors.,0.8605063279281095,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop instructional materials, such as lesson plans, handouts, or examinations.",18.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop instructional materials, such as lesson plans, handouts, or examinations.",0.5978080371969445,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"develop instructional materials, such as lesson plans, handouts, or examinations.",1.0147523143756243,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop new software applications or customize existing applications to meet specific scientific project needs.,34.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop new software applications or customize existing applications to meet specific scientific project needs.,1.129192959149784,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,develop new software applications or customize existing applications to meet specific scientific project needs.,1.8112420321673237,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop or apply data mining and machine learning algorithms.,18.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop or apply data mining and machine learning algorithms.,0.5978080371969445,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,develop or apply data mining and machine learning algorithms.,1.115030487387797,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",1.5128627860732309,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",90.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",2.9890401859847224,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",1.2198152344677788,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",41.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",1.3616738625041516,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",1.7929368878390157,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",0.46881180686589724,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",27.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",0.8967120557954168,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",1.3509425141242497,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",16.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",0.5313849219528396,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",0.7509414929142594,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,modify existing programs to enhance efficiency.,16.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,modify existing programs to enhance efficiency.,0.5313849219528396,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,modify existing programs to enhance efficiency.,1.0708683011157167,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",115.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",3.8193291265360343,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",1.000657383687623,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",91.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",3.022251743606775,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",1.1152983138958803,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,108.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,3.586848223181667,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,1624.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,53.93556957821322,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",31.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",1.0295582862836268,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",1.143485478778029,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",47.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",1.5609432082364665,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",0.9502747956099367,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",42.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",1.3948854201262038,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",1.3989379415609888,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",19.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",0.631019594818997,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",0.6451972999950745,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,provide professional consulting services to government or industry.,15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,provide professional consulting services to government or industry.,0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,provide professional consulting services to government or industry.,1.5931207588092116,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",31.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",1.0295582862836268,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",1.154385944862637,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"search electronic sources, such as databases or repositories, or manual sources for information.",15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"search electronic sources, such as databases or repositories, or manual sources for information.",0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"search electronic sources, such as databases or repositories, or manual sources for information.",1.0264584936057641,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"troubleshoot problems involving office equipment, such as computer hardware and software.",15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"troubleshoot problems involving office equipment, such as computer hardware and software.",0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"troubleshoot problems involving office equipment, such as computer hardware and software.",0.5819125843004215,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",166.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",5.513118565260711,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",1.1315719557963364,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,write supporting code for web applications or web sites.,15.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,write supporting code for web applications or web sites.,0.498173364330787,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct_index,write supporting code for web applications or web sites.,1.0696465290669146,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count

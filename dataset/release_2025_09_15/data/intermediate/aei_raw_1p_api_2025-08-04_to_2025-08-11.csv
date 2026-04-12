@@ -1,0 +1,266 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,directive,626255.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,directive,66.29576620885462
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,feedback loop,104633.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,feedback loop,11.076518200622884
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,learning,35696.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,learning,3.7788020384528256
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,none,96463.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,none,10.21163662694069
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,not_classified,14.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,not_classified,0.0014820492082681408
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,task iteration,51941.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,task iteration,5.498508423332535
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_count,validation,29636.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,collaboration,0,collaboration_pct,validation,3.1372864525881874
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,access computerized financial information to answer general questions as well as those related to specific accounts.,29.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,access computerized financial information to answer general questions as well as those related to specific accounts.,0.0030699590742697203
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales.,65.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales.,0.0068809427526735105
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",100.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",0.010586065773343863
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,adapt instructional content or delivery methods for different levels or types of learners.,167.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,adapt instructional content or delivery methods for different levels or types of learners.,0.01767872984148425
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,adapt teaching methods and instructional materials to meet students' varying needs and interests.,39.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,adapt teaching methods and instructional materials to meet students' varying needs and interests.,0.0041285656516041064
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,adapt text to accommodate musical requirements of composers and singers.,36.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,adapt text to accommodate musical requirements of composers and singers.,0.0038109836784037906
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",44.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",0.0046578689402713
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",477.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",0.05049553373885023
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"administer and score applicant and employee aptitude, personality, and interest assessment instruments.",17.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"administer and score applicant and employee aptitude, personality, and interest assessment instruments.",0.001799631181468457
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,administer document and system access rights and revision control to ensure security of system and integrity of master documents.,65.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,administer document and system access rights and revision control to ensure security of system and integrity of master documents.,0.0068809427526735105
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"administer highway planning, construction, or maintenance.",36.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"administer highway planning, construction, or maintenance.",0.0038109836784037906
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,administer online purchasing systems.,237.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,administer online purchasing systems.,0.025088975882824955
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,administer standardized ability and achievement tests and interpret results to determine students' strengths and areas of need.,96.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,administer standardized ability and achievement tests and interpret results to determine students' strengths and areas of need.,0.010162623142410107
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"administer, dispense, or prescribe natural medicines such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",17.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"administer, dispense, or prescribe natural medicines such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",0.001799631181468457
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"administer, proctor, or score academic or diagnostic assessments.",425.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"administer, proctor, or score academic or diagnostic assessments.",0.04499077953671142
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise and teach students.,16.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise and teach students.,0.001693770523735018
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise business or other groups on local, national, or international factors affecting the buying or selling of products or services.",39.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise business or other groups on local, national, or international factors affecting the buying or selling of products or services.",0.0041285656516041064
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",40.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",0.0042344263093375455
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise clients on how they could be helped by counseling.,184.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise clients on how they could be helped by counseling.,0.01947836102295271
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",232.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",0.024559672594157762
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise corporations on issues involving corporate image projects or problems.,804.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise corporations on issues involving corporate image projects or problems.,0.08511196881768465
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise customer about or perform maintenance of software system.,20.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise customer about or perform maintenance of software system.,0.0021172131546687727
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise customers concerning equipment operation, maintenance, or programming.",20.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise customers concerning equipment operation, maintenance, or programming.",0.0021172131546687727
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise customers of necessary actions and strategies for debt repayment.,33.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise customers of necessary actions and strategies for debt repayment.,0.0034934017052034748
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with the establishment, operation, and evaluation of food service facilities and nutrition programs.",18.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with the establishment, operation, and evaluation of food service facilities and nutrition programs.",0.0019054918392018953
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",60.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",0.006351639464006318
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",53.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",0.005610614859872247
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise or assist in obtaining patents or meeting other legal requirements.,27.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise or assist in obtaining patents or meeting other legal requirements.,0.002858237758802843
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",88.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",0.0093157378805426
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise patients and their families on nutritional principles, dietary plans and diet modifications, and food selection and preparation.",22.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise patients and their families on nutritional principles, dietary plans and diet modifications, and food selection and preparation.",0.00232893447013565
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise students on academic and vocational curricula and career issues.,22.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise students on academic and vocational curricula and career issues.,0.00232893447013565
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,advise students on academic and vocational curricula and on career issues.,84.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,advise students on academic and vocational curricula and on career issues.,0.008892295249608844
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise students on academic and vocational curricula, and on career issues.",25.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise students on academic and vocational curricula, and on career issues.",0.002646516443335966
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"advise students on academic and vocational curricula, career issues, and laboratory and field research.",16.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"advise students on academic and vocational curricula, career issues, and laboratory and field research.",0.001693770523735018
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"align, adjust, or calibrate equipment according to specifications.",19.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"align, adjust, or calibrate equipment according to specifications.",0.002011352496935334
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,124.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,0.013126721558946392
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and characterize user experiences and institutional settings to assist consumer product developers, technology developers, and software engineers with the design of innovative products and services.",20.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and characterize user experiences and institutional settings to assist consumer product developers, technology developers, and software engineers with the design of innovative products and services.",0.0021172131546687727
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze and classify risks and investments to determine their potential impacts on companies.,326.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze and classify risks and investments to determine their potential impacts on companies.,0.034510574421101
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.,17.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.,0.001799631181468457
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze and evaluate robotic systems or prototypes.,31.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze and evaluate robotic systems or prototypes.,0.003281680389736598
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",1881.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",0.19912389719659807
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and interpret patient, nursing, or information systems data to improve nursing services.",37.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and interpret patient, nursing, or information systems data to improve nursing services.",0.003916844336137229
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",466.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",0.049331066503782404
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and interpret results from tests such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (fnas), and polymerase chain reactions (pcrs).",1045.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and interpret results from tests such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (fnas), and polymerase chain reactions (pcrs).",0.11062438733144336
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze and record personnel or operational data and write related activity reports.,15.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze and record personnel or operational data and write related activity reports.,0.0015879098660015795
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze and record test data to issue reports that use charts, graphs, or narratives.",2494.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze and record test data to issue reports that use charts, graphs, or narratives.",0.26401648038719594
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze and report computer network security breaches or attempted breaches.,679.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze and report computer network security breaches or attempted breaches.,0.07187938660100483
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans.",19.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans.",0.002011352496935334
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze archival data such as birth, death, and disease records.",16.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze archival data such as birth, death, and disease records.",0.001693770523735018
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze available data and consult with other scientists to determine parameters of experimentation and suitability of analytical models.,136.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze available data and consult with other scientists to determine parameters of experimentation and suitability of analytical models.,0.014397049451747655
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",147.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",0.015561516686815477
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze characteristics of animals to identify and classify them.,1735.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze characteristics of animals to identify and classify them.,0.183668241167516
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze clinical data using appropriate statistical tools.,15.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze clinical data using appropriate statistical tools.,0.0015879098660015795
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze clinical or survey data using statistical approaches such as longitudinal analysis, mixed effect modeling, logistic regression analyses, and model building techniques.",15.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze clinical or survey data using statistical approaches such as longitudinal analysis, mixed effect modeling, logistic regression analyses, and model building techniques.",0.0015879098660015795
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze competitive market strategies through analysis of related product, market, or share trends.",96.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze competitive market strategies through analysis of related product, market, or share trends.",0.010162623142410107
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze complex systems to determine potential for further development, production, interoperability, compatibility, or usefulness in a particular area, such as aviation.",112.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze complex systems to determine potential for further development, production, interoperability, compatibility, or usefulness in a particular area, such as aviation.",0.011856393666145127
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze computer and information technologies to determine applicability to nursing practice, education, administration and research.",23.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze computer and information technologies to determine applicability to nursing practice, education, administration and research.",0.0024347951278690886
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze corporate intelligence data to identify trends, patterns, or warnings indicating threats to security of people, assets, information, or infrastructure.",517.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze corporate intelligence data to identify trends, patterns, or warnings indicating threats to security of people, assets, information, or infrastructure.",0.05472996004818777
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.,64.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.,0.006775082094940072
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze data from surveys, old records, or case studies, using statistical software.",473.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze data from surveys, old records, or case studies, using statistical software.",0.050072091107916473
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze data such as interview notes, test results, and reference manuals to identify symptoms and to diagnose the nature of clients' problems.",79.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze data such as interview notes, test results, and reference manuals to identify symptoms and to diagnose the nature of clients' problems.",0.008362991960941651
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze data to assess distance learning program status or to inform decisions for distance learning programs.,24.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze data to assess distance learning program status or to inform decisions for distance learning programs.,0.0025406557856025268
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze data to determine answers to questions from customers or members of the public.,908.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze data to determine answers to questions from customers or members of the public.,0.09612147722196228
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze data to determine feasibility of product proposals.,160.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze data to determine feasibility of product proposals.,0.016937705237350182
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze data to determine the effectiveness of treatments or therapy approaches.,34.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze data to determine the effectiveness of treatments or therapy approaches.,0.003599262362936914
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",28.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",0.0029640984165362817
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze determinants responsible for specific inherited traits, and devise methods for altering traits or producing new traits.",26.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze determinants responsible for specific inherited traits, and devise methods for altering traits or producing new traits.",0.0027523771010694044
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze developments in specific field to determine need for revisions in previously published materials and development of new material.,299.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze developments in specific field to determine need for revisions in previously published materials and development of new material.,0.03165233666229815
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",25.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",0.002646516443335966
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze equipment performance records to assess equipment functioning.,48.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze equipment performance records to assess equipment functioning.,0.0050813115712050536
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",44.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",0.0046578689402713
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze experimental data and interpret results to write reports and summaries of findings.,2027.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze experimental data and interpret results to write reports and summaries of findings.,0.2145795532256801
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze financial data to detect irregularities in areas such as billing trends, financial relationships, and regulatory compliance procedures.",38.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze financial data to detect irregularities in areas such as billing trends, financial relationships, and regulatory compliance procedures.",0.004022704993870668
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,360.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,0.038109836784037905
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,58.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,0.006139918148539441
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze geographic information systems (gis) data to identify spatial relationships or display results of analyses, using maps, graphs, or tabular data.",54.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze geographic information systems (gis) data to identify spatial relationships or display results of analyses, using maps, graphs, or tabular data.",0.005716475517605686
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze information gathered by investigation and report findings and recommendations.,22.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze information gathered by investigation and report findings and recommendations.,0.00232893447013565
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze information obtained from management to conceptualize and define operational problems.,863.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze information obtained from management to conceptualize and define operational problems.,0.09135774762395754
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling and information engineering.",343.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling and information engineering.",0.03631020560256945
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze information to determine, recommend, and plan computer specifications and layouts, and peripheral equipment modifications.",314.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze information to determine, recommend, and plan computer specifications and layouts, and peripheral equipment modifications.",0.033240246528299724
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",156.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",0.016514262606416426
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.",529.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.",0.05600028794098904
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze job requirements and content to establish criteria for classification, selection, training, and other related personnel functions.",48.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze job requirements and content to establish criteria for classification, selection, training, and other related personnel functions.",0.0050813115712050536
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze laboratory findings to check the accuracy of the results.,255.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze laboratory findings to check the accuracy of the results.,0.026994467722026853
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze large molecular datasets such as raw microarray data, genomic sequence data, and proteomics data for clinical or basic research purposes.",384.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze large molecular datasets such as raw microarray data, genomic sequence data, and proteomics data for clinical or basic research purposes.",0.04065049256964043
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze market conditions to determine optimum times to execute securities transactions.,850.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze market conditions to determine optimum times to execute securities transactions.,0.08998155907342284
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze network data to determine network usage, disk space availability, or server function.",73.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze network data to determine network usage, disk space availability, or server function.",0.007727828014541019
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.",1751.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.",0.18536201169125102
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze or evaluate dental needs to determine changes or trends in patterns of dental disease.,24.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze or evaluate dental needs to determine changes or trends in patterns of dental disease.,0.0025406557856025268
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing.",487.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing.",0.05155414031618461
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",32.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",0.003387541047470036
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze or synthesize client data to draw conclusions or make recommendations for therapy.,71.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze or synthesize client data to draw conclusions or make recommendations for therapy.,0.007516106699074142
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",1555.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",0.16461332277549706
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.",5661.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.",0.599277183428996
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,41.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,0.004340286967070984
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze patrons' requests to determine needed information and assist in furnishing or locating that information.,79.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze patrons' requests to determine needed information and assist in furnishing or locating that information.,0.008362991960941651
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials.",123.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials.",0.01302086090121295
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze physical findings and medical histories to make diagnoses according to oriental medicine traditions.,25.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze physical findings and medical histories to make diagnoses according to oriental medicine traditions.,0.002646516443335966
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze potential loan markets to find opportunities to promote loans and financial services.,49.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze potential loan markets to find opportunities to promote loans and financial services.,0.0051871722289384935
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,21.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,0.002223073812402211
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze price proposals, financial reports, and other data and information to determine reasonable prices.",36.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze price proposals, financial reports, and other data and information to determine reasonable prices.",0.0038109836784037906
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze problems to develop solutions involving computer hardware and software.,91.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze problems to develop solutions involving computer hardware and software.,0.009633319853742914
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze product complaints and make recommendations regarding their reportability.,30.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze product complaints and make recommendations regarding their reportability.,0.003175819732003159
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze records, reports, test results, or examination information to diagnose medical condition of patient.",812.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze records, reports, test results, or examination information to diagnose medical condition of patient.",0.08595885407955216
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze research data to determine its significance, using computers.",598.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze research data to determine its significance, using computers.",0.0633046733245963
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze samples of biological material for chemical content or reaction.,63.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze samples of biological material for chemical content or reaction.,0.006669221437206634
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices.,23.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices.,0.0024347951278690886
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze system performance or operational requirements.,935.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze system performance or operational requirements.,0.09897971498076513
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze target companies or investment opportunities to inform investment decisions.,763.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze target companies or investment opportunities to inform investment decisions.,0.08077168185061367
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze technology trends to identify markets for future product development or to improve sales of existing products.,15.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze technology trends to identify markets for future product development or to improve sales of existing products.,0.0015879098660015795
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze test data, making computations as necessary, to determine test results.",2494.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze test data, making computations as necessary, to determine test results.",0.26401648038719594
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze test results and develop a treatment plan.,20.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze test results and develop a treatment plan.,0.0021172131546687727
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.",43.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.",0.004552008282537861
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze the layout, instrumentation, or function of electrical generation or transmission facilities.",52.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze the layout, instrumentation, or function of electrical generation or transmission facilities.",0.005504754202138809
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze training needs to design employee development, language training and health and safety programs.",15.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze training needs to design employee development, language training and health and safety programs.",0.0015879098660015795
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze training needs to develop new training programs or modify and improve existing programs.,56.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze training needs to develop new training programs or modify and improve existing programs.,0.005928196833072563
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments.",44.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments.",0.0046578689402713
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze user needs and recommend appropriate hardware.,89.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze user needs and recommend appropriate hardware.,0.009421598538276038
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,9785.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,1.0358465359216968
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze, interpret, or create graphical representations of energy data, using engineering software.",218.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze, interpret, or create graphical representations of energy data, using engineering software.",0.02307762338588962
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"analyze, interpret, or disseminate system performance data.",699.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"analyze, interpret, or disseminate system performance data.",0.0739965997556736
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"announce musical selections, station breaks, commercials, or public service information, and accept requests from listening audience.",21.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"announce musical selections, station breaks, commercials, or public service information, and accept requests from listening audience.",0.002223073812402211
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,answer applicants' questions about benefits and claim procedures.,83.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,answer applicants' questions about benefits and claim procedures.,0.008786434591875406
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,answer clients' questions about the purposes and details of financial plans and strategies.,76.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,answer clients' questions about the purposes and details of financial plans and strategies.,0.008045409987741337
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_count,"answer clients' questions regarding construction work, financing, maintenance, repairs, and appraisals.",62.0
+GLOBAL,global,2025-08-04,2025-08-11,1P API,onet_task,0,onet_task_pct,"answer clients' questions regarding construction work, financing, maintenance, repairs, and appraisals.",0.006563360779473196
+GLOBAL,global,2025-08-04,2025
