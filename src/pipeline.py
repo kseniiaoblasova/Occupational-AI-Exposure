@@ -90,6 +90,7 @@ def _generate_keywords(job_title, job_description):
     if job_description:
         user_content += f"\nJob description: {job_description}"
 
+    print(f"\n[Claude] generate_keywords ← {repr(user_content)}")
     response = get_client().messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=200,
@@ -98,6 +99,7 @@ def _generate_keywords(job_title, job_description):
     )
 
     raw = response.content[0].text.strip()
+    print(f"[Claude] generate_keywords → {repr(raw)}")
     if raw.upper() == "INVALID_JOB_TITLE":
         return None  # signals nonsense input
     return [k.strip() for k in raw.split(",") if k.strip()]
@@ -108,6 +110,7 @@ def _search_onet(keywords):
     candidates = {}
 
     for keyword in keywords:
+        print(f"[O*NET] search ← {repr(keyword)}")
         results = get_onet().call(
             "online/search",
             ("keyword", keyword),
@@ -115,9 +118,13 @@ def _search_onet(keywords):
         )
 
         if "occupation" not in results:
+            print(f"[O*NET] search → no results")
             continue
 
-        for occ in results["occupation"]:
+        hits = results["occupation"]
+        print(
+            f"[O*NET] search → {len(hits)} result(s): {[o['code'] for o in hits]}")
+        for occ in hits:
             code = occ["code"]
             if code not in candidates:
                 candidates[code] = {
@@ -125,6 +132,7 @@ def _search_onet(keywords):
                     "title": occ["title"],
                 }
 
+    print(f"[O*NET] total unique candidates: {len(candidates)}")
     return candidates
 
 
@@ -139,6 +147,8 @@ def _select_best_occupation(job_title, job_description, candidates):
         user_content += f"Job description: {job_description}\n"
     user_content += f"\nCandidate occupations:\n{candidate_list}"
 
+    print(
+        f"\n[Claude] select_occupation ← job_title={repr(job_title)}, {len(candidates)} candidates")
     response = get_client().messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=50,
@@ -146,17 +156,22 @@ def _select_best_occupation(job_title, job_description, candidates):
         messages=[{"role": "user", "content": user_content}],
     )
 
-    return response.content[0].text.strip()
+    soc = response.content[0].text.strip()
+    title = candidates.get(soc, {}).get("title", "?")
+    print(f"[Claude] select_occupation → {soc} ({title})")
+    return soc
 
 
 def _fetch_tasks(soc_code):
     """fetch all task statements (request up to 50 to skip pagination)"""
+    print(f"[O*NET] fetch_tasks ← {soc_code}")
     result = get_onet().call(
         f"online/occupations/{soc_code}/details/tasks",
         ("end", 50),
     )
 
     if "error" in result:
+        print(f"[O*NET] fetch_tasks → error: {result['error']}")
         return []
 
     tasks = []
@@ -165,31 +180,41 @@ def _fetch_tasks(soc_code):
         if statement:
             tasks.append(statement.strip().lower())
 
+    print(f"[O*NET] fetch_tasks → {len(tasks)} tasks")
     return tasks
 
 
 def _fetch_job_zone(soc_code):
     """pull job zone (1-5) for an occupation"""
+    print(f"[O*NET] fetch_job_zone ← {soc_code}")
     result = get_onet().call(f"online/occupations/{soc_code}/details/job_zone")
 
     if "error" in result:
+        print(f"[O*NET] fetch_job_zone → error: {result['error']}")
         return None
 
-    return result.get("job_zone", {}).get("value", None)
+    value = result.get("job_zone", {}).get("value", None)
+    print(f"[O*NET] fetch_job_zone → {value}")
+    return value
 
 
 def _fetch_occupation_flags(soc_code):
     """pull isBright and isGreen from onet occupation tags"""
+    print(f"[O*NET] fetch_flags ← {soc_code}")
     result = get_onet().call(f"online/occupations/{soc_code}")
 
     if "error" in result:
+        print(f"[O*NET] fetch_flags → error: {result['error']}")
         return {"isBright": None, "isGreen": None}
 
     tags = result.get("tags", {})
-    return {
+    flags = {
         "isBright": int(tags.get("bright_outlook", False)),
         "isGreen": int(tags.get("green", False))
     }
+    print(
+        f"[O*NET] fetch_flags → isBright={flags['isBright']}, isGreen={flags['isGreen']}")
+    return flags
 
 
 # ======================================================================
@@ -211,6 +236,7 @@ def _fetch_bls_median_salary(soc_code):
 
     series_id = f"OEUN0000000000000{clean_soc}13"
 
+    print(f"[BLS] fetch_salary ← series_id={series_id}")
     try:
         payload = {
             "seriesid": [series_id],
@@ -230,16 +256,22 @@ def _fetch_bls_median_salary(soc_code):
         data = resp.json()
 
         if data.get("status") != "REQUEST_SUCCEEDED":
+            print(f"[BLS] fetch_salary → failed (status={data.get('status')})")
             return None
 
         series = data.get("Results", {}).get("series", [])
         if not series or not series[0].get("data"):
+            print(f"[BLS] fetch_salary → no data returned")
             return None
 
         value = series[0]["data"][0].get("value")
-        return float(value) if value else None
+        result = float(value) if value else None
+        print(
+            f"[BLS] fetch_salary → ${result:,.0f}" if result else "[BLS] fetch_salary → None")
+        return result
 
-    except Exception:
+    except Exception as e:
+        print(f"[BLS] fetch_salary → exception: {e}")
         return None
 
 
@@ -456,6 +488,12 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
     if not job_title or not isinstance(job_title, str) or not job_title.strip():
         return {"error": "Job title is required and must be a non-empty string"}
 
+    print(f"\n{'='*60}")
+    print(f"[pipeline] predict_ai_job_exposure ← {repr(job_title)}")
+    if job_description:
+        print(
+            f"[pipeline] description: {repr(job_description[:100])}{'...' if len(job_description) > 100 else ''}")
+
     # step 1: resolve to soc code
     soc_code, onet_title, candidates = _resolve_soc_code(
         job_title, job_description)
@@ -475,13 +513,20 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
         X = pd.DataFrame([row[FEATURE_COLUMNS].values],
                          columns=FEATURE_COLUMNS)
         X_scaled = scaler.transform(X)
+        prediction = int(model.predict(X_scaled)[0])
+        probability = float(model.predict_proba(X_scaled)[0])
+        print(
+            f"[pipeline] source=dataset  occ={row['occ_code']}  title={repr(row['title'])}")
+        print(
+            f"[pipeline] prediction={prediction}  probability={probability:.3f}")
+        print(f"{'='*60}\n")
 
         return {
             "source": "dataset",
             "occ_code": row["occ_code"],
             "title": row["title"],
-            "prediction": int(model.predict(X_scaled)[0]),
-            "probability": float(model.predict_proba(X_scaled)[0]),
+            "prediction": prediction,
+            "probability": probability,
             "features": X.iloc[0].to_dict()
         }
 
@@ -516,13 +561,20 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
     X = _build_feature_vector(
         is_bright, is_green, job_zone, median_salary, task_pcts)
     X_scaled = scaler.transform(X)
+    prediction = int(model.predict(X_scaled)[0])
+    probability = float(model.predict_proba(X_scaled)[0])
+    print(
+        f"[pipeline] source=onet_api  occ={occ_code_short}  title={repr(onet_title)}")
+    print(f"[pipeline] salary_source={salary_source}  tasks={len(tasks)}")
+    print(f"[pipeline] prediction={prediction}  probability={probability:.3f}")
+    print(f"{'='*60}\n")
 
     return {
         "source": "onet_api",
         "occ_code": occ_code_short,
         "title": onet_title,
-        "prediction": int(model.predict(X_scaled)[0]),
-        "probability": float(model.predict_proba(X_scaled)[0]),
+        "prediction": prediction,
+        "probability": probability,
         "features": X.iloc[0].to_dict(),
         "tasks_retrieved": len(tasks),
         "salary_source": salary_source

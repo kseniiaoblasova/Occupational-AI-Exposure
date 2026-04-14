@@ -10,6 +10,13 @@ Run:
   cd src && uvicorn main:app --reload --port 8000
 """
 
+import pandas as pd
+from pipeline import (
+    predict_ai_job_exposure,
+    predict_manual,
+    compute_fallback_stats,
+    FEATURE_COLUMNS,
+)
 import sys
 import os
 import pickle
@@ -23,13 +30,6 @@ from typing import Optional
 sys.path.insert(0, os.path.dirname(__file__))
 
 from logistic_regression import LogisticRegression  # noqa: F401 — needed for pickle
-from pipeline import (
-    predict_ai_job_exposure,
-    predict_manual,
-    compute_fallback_stats,
-    FEATURE_COLUMNS,
-)
-import pandas as pd
 
 # ── App ─────────────────────────────────────────────────
 app = FastAPI(title="AI Job Exposure API")
@@ -108,7 +108,8 @@ def predict_job_title(req: JobTitleRequest):
         )
     except Exception:
         traceback.print_exc()
-        raise HTTPException(status_code=500, detail="Internal prediction error")
+        raise HTTPException(
+            status_code=500, detail="Internal prediction error")
 
     if "error" in result:
         status = 400 if result["error"] == "INVALID_JOB_TITLE" else 422
@@ -138,7 +139,8 @@ def predict_manual_endpoint(req: ManualRequest):
         result = predict_manual(features, model, scaler)
     except Exception:
         traceback.print_exc()
-        raise HTTPException(status_code=500, detail="Internal prediction error")
+        raise HTTPException(
+            status_code=500, detail="Internal prediction error")
 
     if "error" in result:
         raise HTTPException(status_code=422, detail=result["error"])
