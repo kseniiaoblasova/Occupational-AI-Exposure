@@ -123,7 +123,8 @@ def _search_onet(keywords):
 
         hits = results["occupation"]
         print(
-            f"[O*NET] search → {len(hits)} result(s): {[o['code'] for o in hits]}")
+            f"[O*NET] search → {len(hits)} result(s): "
+            f"{[(o['code'], o['title']) for o in hits]}")
         for occ in hits:
             code = occ["code"]
             if code not in candidates:
@@ -133,6 +134,8 @@ def _search_onet(keywords):
                 }
 
     print(f"[O*NET] total unique candidates: {len(candidates)}")
+    for c in candidates.values():
+        print(f"    - {c['code']}: {c['title']}")
     return candidates
 
 
@@ -149,6 +152,8 @@ def _select_best_occupation(job_title, job_description, candidates):
 
     print(
         f"\n[Claude] select_occupation ← job_title={repr(job_title)}, {len(candidates)} candidates")
+    for c in candidates.values():
+        print(f"    - {c['code']}: {c['title']}")
     response = get_client().messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=50,
@@ -181,6 +186,11 @@ def _fetch_tasks(soc_code):
             tasks.append(statement.strip().lower())
 
     print(f"[O*NET] fetch_tasks → {len(tasks)} tasks")
+    for i, t in enumerate(tasks[:3], 1):
+        preview = t[:110] + ("..." if len(t) > 110 else "")
+        print(f"    {i}. {preview}")
+    if len(tasks) > 3:
+        print(f"    ... ({len(tasks) - 3} more)")
     return tasks
 
 
@@ -517,6 +527,12 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
         probability = float(model.predict_proba(X_scaled)[0])
         print(
             f"[pipeline] source=dataset  occ={row['occ_code']}  title={repr(row['title'])}")
+        print(f"[pipeline] features (raw):")
+        for col, val in X.iloc[0].items():
+            print(f"    {col:>20s} = {val}")
+        print(f"[pipeline] features (scaled, z-scores):")
+        for col, val in zip(FEATURE_COLUMNS, X_scaled[0]):
+            print(f"    {col:>20s} = {val:+.3f}")
         print(
             f"[pipeline] prediction={prediction}  probability={probability:.3f}")
         print(f"{'='*60}\n")
@@ -539,16 +555,37 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
     if tasks:
         task_df = _keyword_features(tasks)
         task_pcts = _aggregate_task_features(task_df)
+        print(f"[pipeline] task breakdown over {len(tasks)} tasks:")
+        counts = {
+            "pct_computer":      int(task_df["has_computer"].sum()),
+            "pct_physical":      int(task_df["is_physical"].sum()),
+            "pct_communication": int(task_df["must_communicate"].sum()),
+            "pct_analyze":       int(task_df["must_analyze"].sum()),
+            "pct_manage":        int(task_df["must_manage"].sum()),
+            "pct_creative":      int(task_df["is_creative"].sum()),
+            "pct_textnative":    int(task_df["is_text_native"].sum()),
+        }
+        for k, pct in task_pcts.items():
+            print(f"    {k:>20s} = {counts[k]:>3d}/{len(tasks)}  ({pct:.3f})")
     else:
         task_pcts = {
             col: 0.0 for col in FEATURE_COLUMNS if col.startswith("pct_")}
+        print(f"[pipeline] task breakdown: no tasks retrieved, all pct_* set to 0.0")
 
     # fallback values for missing fields
     fallback = _get_fallback(occ_code_short, fallback_stats)
 
+    is_bright_src = "onet" if flags["isBright"] is not None else "fallback"
+    is_green_src  = "onet" if flags["isGreen"]  is not None else "fallback"
+    job_zone_src  = "onet" if job_zone          is not None else "fallback"
+
     is_bright = flags["isBright"] if flags["isBright"] is not None else fallback["isBright"]
     is_green = flags["isGreen"] if flags["isGreen"] is not None else fallback["isGreen"]
     job_zone = job_zone if job_zone is not None else fallback["JobZone"]
+
+    print(f"[pipeline] isBright={is_bright} (source={is_bright_src}), "
+          f"isGreen={is_green} (source={is_green_src}), "
+          f"JobZone={job_zone} (source={job_zone_src})")
 
     # salary: bls -> major group median
     median_salary = _fetch_bls_median_salary(soc_code)
@@ -566,6 +603,12 @@ def predict_ai_job_exposure(job_title, model, scaler, dataset, fallback_stats, j
     print(
         f"[pipeline] source=onet_api  occ={occ_code_short}  title={repr(onet_title)}")
     print(f"[pipeline] salary_source={salary_source}  tasks={len(tasks)}")
+    print(f"[pipeline] features (raw):")
+    for col, val in X.iloc[0].items():
+        print(f"    {col:>20s} = {val}")
+    print(f"[pipeline] features (scaled, z-scores):")
+    for col, val in zip(FEATURE_COLUMNS, X_scaled[0]):
+        print(f"    {col:>20s} = {val:+.3f}")
     print(f"[pipeline] prediction={prediction}  probability={probability:.3f}")
     print(f"{'='*60}\n")
 

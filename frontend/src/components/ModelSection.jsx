@@ -22,9 +22,6 @@ const DEFAULTS = {
 
 const TIMEOUT_MS = 20000
 
-// Class-specific precision from test-set evaluation
-const PRECISION = { exposed: 0.68, notExposed: 0.71 }
-
 const INVALID_MSG = 'Sorry, invalid job title. Please try something else.'
 
 const TITLE_BLOCKLIST = [
@@ -77,8 +74,7 @@ async function fetchWithTimeout(url, body) {
 function ResultRow({ result }) {
   const isExposed = result.prediction === 1
   const rawConf = isExposed ? result.probability : 1 - result.probability
-  const precision = isExposed ? PRECISION.exposed : PRECISION.notExposed
-  const calibrated = Math.round(rawConf * precision * 100)
+  const probability = Math.round(rawConf * 100)
 
   return (
     <div className="jt-result">
@@ -87,7 +83,7 @@ function ResultRow({ result }) {
         {isExposed ? 'Yes' : 'No'}
       </span>
       <span className="result-prob">
-        with a probability of <strong>{calibrated}%</strong>
+        with a probability of <strong>{probability}%</strong>
       </span>
     </div>
   )
@@ -96,8 +92,9 @@ function ResultRow({ result }) {
 function Disclaimer() {
   return (
     <p className="jt-disclaimer">
-      This model provides a probabilistic estimate based on occupational data patterns.
-      It is not a definitive assessment of any individual's employment prospects.
+      This model provides a probabilistic estimate based on occupational data patterns,
+      with an overall test-set accuracy of approximately 70%. It is not a definitive
+      assessment of any individual's employment prospects.
     </p>
   )
 }
