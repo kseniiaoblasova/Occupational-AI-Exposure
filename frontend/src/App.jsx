@@ -46,7 +46,7 @@ export default function App() {
 
           <h1 className="hero-title">
             <span className="hero-title-main">AI and the Job Market: </span>
-            <span className="hero-subtitle">A Machine Learning Approach<br />to Predicting Occupational<br />AI Exposure</span>
+            <span className="hero-subtitle">A Machine Learning Approach<br /> to Predicting Occupational<br /> AI Exposure</span>
           </h1>
 
           <p className="hero-desc">
