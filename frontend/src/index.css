@@ -838,11 +838,6 @@ body {
 
 /* ─── Responsive ─────────────────────────────────── */
 @media (max-width: 680px) {
-  .nav-right {
-    gap: 16px;
-    font-size: 13px;
-  }
-
   .section-inner {
     grid-template-columns: 1fr;
     gap: 20px;
@@ -862,14 +857,54 @@ body {
   }
 }
 
-@media (max-width: 440px) {
+/* ── Phone ───────────────────────────────────────── */
+@media (max-width: 540px) {
+  /* Nav: hide section links, keep only Github / Medium */
   .nav-right {
-    gap: 12px;
-    font-size: 12px;
+    display: none;
   }
 
-  .btn-primary,
-  .btn-ghost {
-    font-size: 13px;
+  /* Hero: smaller title, natural line breaks */
+  .hero-title {
+    font-size: clamp(28px, 7.5vw, 42px);
+  }
+
+  .hero-subtitle br {
+    display: none;
+  }
+
+  .hero-body {
+    max-width: 100%;
+  }
+
+  /* Buttons: stack vertically */
+  .hero-actions {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  /* Sections: tighter padding */
+  .section {
+    padding-block: clamp(40px, 8vh, 60px);
+  }
+
+  .section-heading {
+    font-size: clamp(22px, 6vw, 32px);
+  }
+
+  .section-text {
+    max-width: 100%;
+  }
+
+  /* References: full width */
+  .references {
+    max-width: 100%;
+    font-size: 14px;
+  }
+
+  /* Stats */
+  .stat-n {
+    font-size: clamp(32px, 8vw, 48px);
   }
 }
