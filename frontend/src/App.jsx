@@ -45,15 +45,12 @@ export default function App() {
           <div className="hero-rule" aria-hidden="true" />
 
           <h1 className="hero-title">
-            <span className="hero-title-main">AI and Job Market:</span>
-            <span className="hero-subtitle">
-              <span>A Machine Learning Approach</span>
-              <span>to Predicting Occupational Exposure</span>
-            </span>
+            <span className="hero-title-main">AI and the Job Market: </span>
+            <span className="hero-subtitle">A Machine Learning Approach<br />to Predicting Occupational<br />AI Exposure</span>
           </h1>
 
           <p className="hero-desc">
-            Enter a job title. Get a displacement risk score — powered by O*NET task data,
+            Enter a job title. Find out whether an occupation is exposed to AI — powered by O*NET task data,
             BLS wages, and a custom logistic regression trained on 756 U.S. occupations.
           </p>
 

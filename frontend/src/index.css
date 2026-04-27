@@ -129,7 +129,7 @@ body {
 }
 
 .hero-body {
-  max-width: 940px;
+  max-width: 1060px;
 }
 
 /* Vertical blue accent line before the heading */
@@ -156,14 +156,7 @@ body {
   color: var(--ink);
 }
 
-/* Lines 2 & 3: indented subtitle block */
 .hero-subtitle {
-  display: block;
-  padding-left: 1.4ch;
-  margin-top: 0.06em;
-}
-
-.hero-subtitle span {
   display: block;
 }
 
