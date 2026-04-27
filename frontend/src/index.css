@@ -293,6 +293,30 @@ body {
   color: var(--ink-muted);
 }
 
+.references {
+  max-width: 860px;
+  padding-left: 1.4em;
+  margin: 0;
+  font-size: clamp(14px, 1.1vw, 16px);
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--ink-mid);
+}
+
+.references li {
+  margin-bottom: 10px;
+}
+
+.references a {
+  color: var(--blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.references a:hover {
+  color: var(--blue-deep);
+}
+
 /* ─── Stats ──────────────────────────────────────── */
 .stat-row {
   display: flex;

@@ -76,8 +76,11 @@ export default function App() {
           <div className="section-body">
             <h2 className="section-heading">The methodology</h2>
             <p className="section-text">
-              This tool estimates how exposed a given occupation is to displacement by AI
-              systems. It maps job titles to O*NET standard occupational codes via Claude,
+              This tool estimates an occupation's AI exposure — whether any of its tasks involve
+              work that AI systems can both plausibly perform in principle and have actually been
+              observed performing in practice. Exposure is not displacement: a positive prediction
+              means parts of the job overlap with what AI can do, not that the role is at risk of disappearing.
+              It maps job titles to O*NET standard occupational codes via Claude,
               engineers features from task statements using keyword analysis, and runs a
               custom logistic regression trained on 756 occupations.
             </p>
@@ -158,15 +161,31 @@ export default function App() {
           <div className="section-body">
             <h2 className="section-heading">Key readings</h2>
             <p className="section-text section-text--dim">
-              A curated reading list on AI, automation, and labor markets — coming soon.
+              A reading list on AI, automation, and labor markets used in this project.
             </p>
+            <ol className="references">
+              <li>Adam K. <em>onet-dataviz</em>. GitHub repository. <a href="https://github.com/adamkq/onet-dataviz" target="_blank" rel="noopener">https://github.com/adamkq/onet-dataviz</a></li>
+              <li>Alderucci, D., Branstetter, L., Hovy, E., Runge, A., &amp; Zolas, N. (2020). Quantifying the impact of AI on productivity and labor demand: Evidence from U.S. Census microdata. Working paper. <a href="https://conference.nber.org/conf_papers/f204793.pdf" target="_blank" rel="noopener">https://conference.nber.org/conf_papers/f204793.pdf</a></li>
+              <li>Anthropic (2026). <em>Anthropic Economic Index</em>. Hugging Face dataset. <a href="https://huggingface.co/datasets/Anthropic/EconomicIndex" target="_blank" rel="noopener">https://huggingface.co/datasets/Anthropic/EconomicIndex</a></li>
+              <li>Anthropic (2026). <em>Economic Index — March 2026 report</em>. <a href="https://www.anthropic.com/research/economic-index-march-2026-report" target="_blank" rel="noopener">https://www.anthropic.com/research/economic-index-march-2026-report</a></li>
+              <li>Backlinko (2025). <em>Claude users: usage statistics</em>. <a href="https://backlinko.com/claude-users" target="_blank" rel="noopener">https://backlinko.com/claude-users</a></li>
+              <li>Colombo, E., Mercorio, F., Mezzanzanica, M., &amp; Vegetti, F. (2024). Mapping AI exposure across European labor markets. <em>Proceedings of IJCAI 2025</em>. <a href="https://www.ijcai.org/proceedings/2025/1066.pdf" target="_blank" rel="noopener">https://www.ijcai.org/proceedings/2025/1066.pdf</a></li>
+              <li>Galeano, L. et al. (2025). By degrees: measuring employer demand for AI skills by educational requirements. <em>Workforce Currents</em>, Federal Reserve Bank of Atlanta. <a href="https://www.atlantafed.org/research-and-data/publications/workforce-currents/2025/05/21/01" target="_blank" rel="noopener">https://www.atlantafed.org/research-and-data/publications/workforce-currents/2025/05/21/01</a></li>
+              <li>Handa, K. et al. (2025). How users interact with Claude across occupational tasks: evidence from the Anthropic Economic Index. <em>Anthropic Research</em>.</li>
+              <li>Massenkoff, M. &amp; McCrory, P. (2025). Labor market impacts of AI: a new measure and early evidence. <em>Anthropic Research</em>. <a href="https://www.anthropic.com/research/labor-market-impacts" target="_blank" rel="noopener">https://www.anthropic.com/research/labor-market-impacts</a></li>
+              <li>Parteka, A. &amp; Kordalska, A. (2023). Artificial intelligence and productivity: global evidence from AI patent and bibliometric data. <em>Technovation</em>, 125. <a href="https://doi.org/10.1016/j.technovation.2023.102764" target="_blank" rel="noopener">https://doi.org/10.1016/j.technovation.2023.102764</a></li>
+              <li>Tamkin, A. et al. (2024). Clio: privacy-preserving insights into real-world AI use. <a href="https://arxiv.org/abs/2412.13678" target="_blank" rel="noopener">https://arxiv.org/abs/2412.13678</a></li>
+              <li>U.S. Bureau of Labor Statistics. <em>Occupational Employment and Wage Statistics (OEWS) API</em>. <a href="https://www.bls.gov/oes/" target="_blank" rel="noopener">https://www.bls.gov/oes/</a></li>
+              <li>U.S. Department of Labor. <em>O*NET Web Services</em>. <a href="https://services.onetcenter.org/" target="_blank" rel="noopener">https://services.onetcenter.org/</a></li>
+              <li>Xie, M. &amp; Yan, B. (2024). Generative AI and customer-service productivity: evidence from a large-scale field deployment. <em>International Review of Economics &amp; Finance</em>. <a href="https://doi.org/10.1016/j.iref.2024.103408" target="_blank" rel="noopener">https://doi.org/10.1016/j.iref.2024.103408</a></li>
+            </ol>
           </div>
         </div>
       </section>
 
       {/* ── Footer ──────────────────────────────── */}
       <footer className="footer">
-        <span className="footer-copy">© 2025 Kseniia Oblasova</span>
+        <span className="footer-copy">Kseniia Oblasova</span>
         <div className="footer-links">
           <a href={GITHUB_URL} className="footer-link">Github</a>
           <a href={MEDIUM_URL} className="footer-link">Medium</a>
