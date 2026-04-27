@@ -880,9 +880,9 @@ body {
     margin-bottom: 20px;
   }
 
-  /* Hero title: smaller, natural line breaks */
+  /* Hero title: larger so each line is shorter → more vertical stacking */
   .hero-title {
-    font-size: clamp(26px, 7vw, 38px);
+    font-size: clamp(32px, 9vw, 42px);
     margin-bottom: 20px;
   }
 
@@ -930,10 +930,16 @@ body {
     font-size: 15px;
   }
 
-  /* References: full width */
+  /* References: full width, prevent link overflow */
   .references {
     max-width: 100%;
     font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .references a {
+    word-break: break-all;
   }
 
   /* Stats: smaller numbers */
