@@ -10,25 +10,25 @@ Run:
   cd src && uvicorn main:app --reload --port 8000
 """
 
+import sys
+import os
+
+# Ensure src/ is on the Python path before any local imports
+sys.path.insert(0, os.path.dirname(__file__))
+
 import pandas as pd
+import pickle
+import traceback
 from pipeline import (
     predict_ai_job_exposure,
     predict_manual,
     compute_fallback_stats,
     FEATURE_COLUMNS,
 )
-import sys
-import os
-import pickle
-import traceback
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from typing import Optional
-
-# Ensure src/ is on the Python path so pickle can find LogisticRegression
-sys.path.insert(0, os.path.dirname(__file__))
 
 from logistic_regression import LogisticRegression  # noqa: F401 — needed for pickle
 
