@@ -880,10 +880,12 @@ body {
     margin-bottom: 20px;
   }
 
-  /* Hero title: larger so each line is shorter → more vertical stacking */
+  /* Hero title: bolder, tighter, more intentional on small screens */
   .hero-title {
-    font-size: clamp(32px, 9vw, 42px);
-    margin-bottom: 20px;
+    font-size: clamp(36px, 10vw, 46px);
+    line-height: 1.02;
+    letter-spacing: -0.025em;
+    margin-bottom: 28px;
   }
 
   .hero-subtitle br {
@@ -894,25 +896,28 @@ body {
     max-width: 100%;
   }
 
-  /* Description */
+  /* Description: more breathing room below title */
   .hero-desc {
     font-size: 15px;
-    margin-bottom: 28px;
+    line-height: 1.7;
+    margin-bottom: 36px;
   }
 
   /* Buttons: stack vertically, primary full width */
   .hero-actions {
     flex-direction: column;
     align-items: stretch;
-    gap: 12px;
+    gap: 0;
   }
 
   .btn-primary {
     justify-content: center;
   }
 
+  /* Pull "Learn more" further away from the primary button */
   .btn-ghost {
     text-align: center;
+    margin-top: 20px;
   }
 
   /* Sections: tighter padding */
