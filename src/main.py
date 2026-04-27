@@ -23,6 +23,7 @@ import pickle
 import traceback
 
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from typing import Optional
 
@@ -33,6 +34,13 @@ from logistic_regression import LogisticRegression  # noqa: F401 — needed for 
 
 # ── App ─────────────────────────────────────────────────
 app = FastAPI(title="AI Job Exposure API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=os.environ.get("ALLOWED_ORIGINS", "*").split(","),
+    allow_methods=["POST", "GET"],
+    allow_headers=["Content-Type"],
+)
 
 # ── Startup: load model, scaler, dataset once ──────────
 model = None

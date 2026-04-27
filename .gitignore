@@ -16,8 +16,7 @@ build/
 # Jupyter
 .ipynb_checkpoints/
 
-# Models (large binaries — store separately if needed)
-models/*.pkl
+# Models — pkl files are small (3K + 1K), safe to commit
 
 # OS
 .DS_Store

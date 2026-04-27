@@ -44,6 +44,8 @@ function validateJobTitle(title) {
 const fmt = (n) => '$' + n.toLocaleString('en-US')
 
 // ── API helpers ────────────────────────────────────────
+const API_BASE = import.meta.env.VITE_API_URL || ''
+
 async function fetchWithTimeout(url, body) {
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS)
@@ -120,7 +122,7 @@ function JobTitleForm() {
 
     setLoading(true)
     try {
-      const data = await fetchWithTimeout('/api/predict/job-title', {
+      const data = await fetchWithTimeout(`${API_BASE}/api/predict/job-title`, {
         job_title: jobTitle.trim(),
         job_description: jobDesc.trim() || null,
       })
@@ -191,7 +193,7 @@ function ManualForm() {
 
     try {
       // Send pct values as 0–100; backend divides by 100
-      const data = await fetchWithTimeout('/api/predict/manual', {
+      const data = await fetchWithTimeout(`${API_BASE}/api/predict/manual`, {
         isBright: f.isBright,
         isGreen: f.isGreen,
         JobZone: f.JobZone,
