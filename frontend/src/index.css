@@ -312,6 +312,20 @@ body {
   color: var(--ink-muted);
 }
 
+.paper-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--blue);
+  text-decoration: none;
+  transition: opacity 0.18s;
+}
+.paper-link:hover {
+  opacity: 0.7;
+}
+
 .references {
   max-width: 860px;
   padding-left: 1.4em;
