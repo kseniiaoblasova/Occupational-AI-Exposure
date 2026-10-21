@@ -92,7 +92,7 @@ def _generate_keywords(job_title, job_description):
 
     print(f"\n[Claude] generate_keywords ← {repr(user_content)}")
     response = get_client().messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-6",
         max_tokens=200,
         system=KEYWORD_SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_content}],
