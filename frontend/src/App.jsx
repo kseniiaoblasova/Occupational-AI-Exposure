@@ -45,7 +45,8 @@ export default function App() {
           </h1>
 
           <p className="hero-desc">
-            Enter a job title and find out whether an occupation is exposed to AI — powered by data from O*NET and BLS, and a custom logistic regression model trained on 756 U.S. occupations.
+            Enter a job title and find out whether an occupation is exposed to AI, using a custom logistic regression model trained on 756 U.S. occupations.
+            Training data comes from Anthropic Economic Index, O*NET, and BLS.
           </p>
 
           <div className="hero-actions">
@@ -112,7 +113,7 @@ export default function App() {
           <div className="section-body">
             <h2 className="section-heading">The paper</h2>
             <p className="section-text section-text--dim">
-              Full write-up on the methodology, data sources, and findings.
+              Technical paper with more details about the project.
             </p>
             <a href="/research-paper.pdf" target="_blank" rel="noopener" className="paper-link">
               Read the paper →
