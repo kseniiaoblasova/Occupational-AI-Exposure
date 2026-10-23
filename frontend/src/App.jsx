@@ -45,8 +45,7 @@ export default function App() {
           </h1>
 
           <p className="hero-desc">
-            Enter a job title. Find out whether an occupation is exposed to AI — powered by O*NET task data,
-            BLS wages, and a custom logistic regression trained on 756 U.S. occupations.
+            Enter a job title and find out whether an occupation is exposed to AI — powered by data from O*NET and BLS, and a custom logistic regression model trained on 756 U.S. occupations.
           </p>
 
           <div className="hero-actions">
@@ -68,13 +67,13 @@ export default function App() {
           <div className="section-body">
             <h2 className="section-heading">The methodology</h2>
             <p className="section-text">
-              This tool estimates an occupation's AI exposure — whether any of its tasks involve
-              work that AI systems can both plausibly perform in principle and have actually been
-              observed performing in practice. Exposure is not displacement: a positive prediction
-              means parts of the job overlap with what AI can do, not that the role is at risk of disappearing.
-              It maps job titles to O*NET standard occupational codes via Claude,
-              engineers features from task statements using keyword analysis, and runs a
-              custom logistic regression trained on 756 occupations.
+              This tool estimates an occupation's AI exposure — whether any of the job's tasks involve
+              work that AI systems can both theroretically perform and have actually been
+              observed performing in practice. Exposure does not necessarily mean displacement. A positive prediction
+              means that some parts of the job either can be done by AI or are often done with the help of AI chatbot.
+              When you input a job title, Claude generates keywords related to that occupation for O*NET search, and retrieves
+              relevant features data from the database or calls BLS API for that data. Then, these predictor values go to the
+              logistic model where it makes a prediction.
             </p>
             <p className="section-text">
               The model uses 11 features: O*NET bright-outlook and green-economy flags,
@@ -129,18 +128,19 @@ export default function App() {
           <div className="section-body">
             <h2 className="section-heading">How it's built</h2>
             <p className="section-text">
-              The backend is a FastAPI service that loads a trained logistic regression model
-              and a fitted scaler at startup. For each job title query it calls the
-              Anthropic Claude API to resolve the title to an O*NET SOC code, fetches
-              occupation features from the O*NET Web Services API, and retrieves median
+              The backend is a FastAPI service that loads a trained logistic regression model.
+              For each job title query it calls the Anthropic Claude API to resolve the title to an O*NET SOC code,
+              fetches occupation features from the O*NET Web Services API, and retrieves median
               wages from the BLS OEWS public data API.
             </p>
             <p className="section-text">
-              The logistic regression is implemented from scratch using gradient ascent
-              on the log-likelihood with learning rate decay — not scikit-learn. The
-              frontend is React + Vite. Feature engineering is regex-based: seven keyword
-              patterns applied to O*NET task statements produce the <code>pct_*</code> proportions
-              used as model inputs.
+              The logistic regression is implemented from scratch by maximizing likelihood estimation
+              through gradient ascent. The frontend is React + Vite.
+              Feature engineering is regex-based. Task statements are being checked for
+              feture related keywords: for example, pct_computer - the portion of computer tasks involved in a job –
+              checks for words like "cloud", "data", "computer", "programming". Then, the number of those related tasks
+              is divided by the number of all tasks, giving a percentage later serving as model's input.
+
             </p>
             <p className="section-text section-text--dim">
               APIs used: Anthropic Claude, O*NET Web Services, BLS OEWS public data API.
