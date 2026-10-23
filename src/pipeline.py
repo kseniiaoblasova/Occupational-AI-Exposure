@@ -155,7 +155,7 @@ def _select_best_occupation(job_title, job_description, candidates):
     for c in candidates.values():
         print(f"    - {c['code']}: {c['title']}")
     response = get_client().messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-6",
         max_tokens=50,
         system=OCCUPATION_SELECTION_SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_content}],
